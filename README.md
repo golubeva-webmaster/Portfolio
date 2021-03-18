@@ -23,6 +23,7 @@
         <ul>
             <li>Task: https://github.com/rolling-scopes-school/tasks/blob/master/tasks/gem-pazzle/codejam-the-gem-puzzle.md</li>
             <li>Work: https://rolling-scopes-school.github.io/golubeva-webmaster-JS2020Q3/gem-puzzle/</li>
+            <li>only for Google Chrome</li>
             <li>Key skills: work with DOM, work with Local Storage, adaptive design</li>
             <li>16.11.2020</li>
     </td>
