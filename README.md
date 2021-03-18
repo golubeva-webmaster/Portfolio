@@ -33,7 +33,7 @@
 
 ## Calculator
  - [Task](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/ready-projects/calculator.md)
- - [Work](https://rolling-scopes-school.github.io/golubeva-webmaster-JS2020Q3/momentum/)
+ - [Work](https://rolling-scopes-school.github.io/golubeva-webmaster-JS2020Q3/calculator/)
  - Key skills: operations with negative numbers, operations with fractions
  - 18.10.2020
  
