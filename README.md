@@ -41,7 +41,7 @@
  - [Work](https://rolling-scopes-school.github.io/golubeva-webmaster-JS2020Q3/momentum/)
  - Key skills: adaptive design, work with quotess API, work with weather forecast API
  - 25.10.2020
- - ![momentum](img/momentum.ipg)
+ - ![momentum](/img/momentum.ipg)
 
 ## Calculator
  - [Task](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/ready-projects/calculator.md)
