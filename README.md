@@ -10,7 +10,7 @@
             <li>Key skills: work with DOM, work with sound, work with Fullscreen API, mouse events, keyboard events</li>
             <li>17.03.2021</li>
     </td>
-    <td>
+    <td width="40%">
         <img src="img/virtual-piano.jpg">
     </td>
 </tr>
@@ -26,7 +26,7 @@
             <li>Key skills: work with DOM, work with Local Storage, adaptive design</li>
             <li>16.11.2020</li>
     </td>
-    <td>
+    <td width="40%">
         <img src="img/puzzle.jpg">
     </td>
 </tr>
@@ -42,7 +42,7 @@
             <li>Key skills: JS mouse events, JS keyboard events</li>
             <li>1.11.2020</li>
     </td>
-    <td>
+    <td width="40%">
         <img src="img/virtual-keyboard.jpg">
     </td>
 </tr>
@@ -58,8 +58,8 @@
             <li>Key skills:  HTML, CSS, adaptive design</li>
             <li>1.11.2020</li>
     </td>
-    <td>
-        <img src="img/shelter.jpg">
+    <td width="40%">
+        <img src="img/sShelter.jpg">
     </td>
 </tr>
 </table>
@@ -75,7 +75,7 @@
             <li>Key skills:  adaptive design, work with quotess API, work with weather forecast API</li>
             <li>25.10.2020</li>
     </td>
-    <td>
+    <td width="40%">
         <img src="img/momentum.jpg">
     </td>
 </tr>
@@ -91,7 +91,7 @@
             <li>Key skills: operations with negative numbers, operations with fractions</li>
             <li>18.10.2020</li>
     </td>
-    <td>
+    <td width="40%">
         <img src="img/calculator.jpg">
     </td>
 </tr>
