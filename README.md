@@ -1,7 +1,7 @@
 # Portfolio of Golubeva Marina
 
+## Virtual-piano
 <table border="0">
-<tr colspan="2"><td><h2>Virtual-piano</h2></td></tr>
 <tr>
     <td>
         <ul>
@@ -14,7 +14,10 @@
         <img src="img/virtual-piano.jpg">
     </td>
 </tr>
-<tr colspan="2"><td><h2>Puzzle game</h2></td></tr>
+</table>
+
+## Puzzle game
+<table border="0">
 <tr>
     <td>
         <ul>
@@ -27,7 +30,10 @@
         <img src="img/puzzle.jpg">
     </td>
 </tr>
-<tr colspan="2"><td><h2>Virtual keyboard</h2></td></tr>
+</table>
+
+## Virtual keyboard
+<table>
 <tr>
     <td>
         <ul>
@@ -40,33 +46,54 @@
         <img src="img/virtual-keyboard.jpg">
     </td>
 </tr>
+</table>
 
-
+## Shelter
+<table>
+<tr>
+    <td>
+        <ul>
+            <li>Task: https://github.com/rolling-scopes-school/tasks/blob/master/tasks/markups/level-2/shelter/shelter-adaptive-ru.md</li>
+            <li>Work: https://rolling-scopes-school.github.io/golubeva-webmaster-JS2020Q3/shelter/pages/main/index.html</li>
+            <li>Key skills:  HTML, CSS, adaptive design</li>
+            <li>1.11.2020</li>
+    </td>
+    <td>
+        <img src="img/shelter.jpg">
+    </td>
+</tr>
 </table>
 
 
-
-## Shelter
- - [Task](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/markups/level-2/shelter/shelter-adaptive-ru.md)
- - [Work](https://rolling-scopes-school.github.io/golubeva-webmaster-JS2020Q3/shelter/pages/main/index.html)
- - Key skills: HTML, CSS, adaptive design
- - 1.11.2020
-
 ## Momentum
- - [Task](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/ready-projects/momentum.md)
- - [Work](https://rolling-scopes-school.github.io/golubeva-webmaster-JS2020Q3/momentum/)
- - Key skills: adaptive design, work with quotess API, work with weather forecast API
- - 25.10.2020
- - ![momentum](/img/momentum.ipg)
+<table>
+<tr>
+    <td>
+        <ul>
+            <li>Task: https://github.com/rolling-scopes-school/tasks/blob/master/tasks/ready-projects/momentum.md</li>
+            <li>Work: https://rolling-scopes-school.github.io/golubeva-webmaster-JS2020Q3/momentum/</li>
+            <li>Key skills:  adaptive design, work with quotess API, work with weather forecast API</li>
+            <li>25.10.2020</li>
+    </td>
+    <td>
+        <img src="img/momentum.jpg">
+    </td>
+</tr>
+</table>
 
 ## Calculator
- - [Task](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/ready-projects/calculator.md)
- - [Work](https://rolling-scopes-school.github.io/golubeva-webmaster-JS2020Q3/calculator/)
- - Key skills: operations with negative numbers, operations with fractions
- - 18.10.2020
- 
+<table>
+<tr>
+    <td>
+        <ul>
+            <li>Task: https://github.com/rolling-scopes-school/tasks/blob/master/tasks/ready-projects/calculator.md</li>
+            <li>Work: https://rolling-scopes-school.github.io/golubeva-webmaster-JS2020Q3/calculator/</li>
+            <li>Key skills: operations with negative numbers, operations with fractions</li>
+            <li>18.10.2020</li>
+    </td>
+    <td>
+        <img src="img/calculator.jpg">
+    </td>
+</tr>
+</table>
 
-
-
-
- 
