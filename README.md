@@ -1,5 +1,16 @@
 # Portfolio of Golubeva Marina
 
+<table border="0">
+ <tr>
+    <td><b style="font-size:30px">Title</b></td>
+    <td><b style="font-size:30px">Title 2</b></td>
+ </tr>
+ <tr>
+    <td>Lorem ipsum ...</td>
+    <td>Lorem ipsum ...</td>
+ </tr>
+</table>
+
 ## Virtual-piano
  - [Task](https://rolling-scopes-school.github.io/stage0/#/stage1/tasks/virtual-piano)
  - [Work](https://rolling-scopes-school.github.io/golubeva-webmaster-JSFE2021Q1/virtual-piano/)
@@ -30,6 +41,7 @@
  - [Work](https://rolling-scopes-school.github.io/golubeva-webmaster-JS2020Q3/momentum/)
  - Key skills: adaptive design, work with quotess API, work with weather forecast API
  - 25.10.2020
+ - ![momentum](img/momentum.ipg)
 
 ## Calculator
  - [Task](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/ready-projects/calculator.md)
