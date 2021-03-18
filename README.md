@@ -1,21 +1,28 @@
 # Portfolio of Golubeva Marina
 
 <table border="0">
- <tr>
-    <td><b style="font-size:30px">Title</b></td>
-    <td><b style="font-size:30px">Title 2</b></td>
- </tr>
- <tr>
+<tr colspan="2">
+    <td><strong style="font-size:30px">## Virtual-piano</strong></td>
+</tr>
+<tr>
+    <td>
+        - [Task](https://rolling-scopes-school.github.io/stage0/#/stage1/tasks/virtual-piano)
+        - [Work](https://rolling-scopes-school.github.io/golubeva-webmaster-JSFE2021Q1/virtual-piano/)
+        - Key skills: work with DOM, work with sound, work with Fullscreen API, mouse events, keyboard events
+        - 17.03.2021
+    </td>
+    <td>
+        <img src="img/virtual-piano.jpg">
+    </td>
+</tr>
+<tr>
     <td>Lorem ipsum ...</td>
     <td>Lorem ipsum ...</td>
- </tr>
+</tr>
 </table>
 
+
 ## Virtual-piano
- - [Task](https://rolling-scopes-school.github.io/stage0/#/stage1/tasks/virtual-piano)
- - [Work](https://rolling-scopes-school.github.io/golubeva-webmaster-JSFE2021Q1/virtual-piano/)
- - Key skills: work with DOM, work with sound, work with Fullscreen API, mouse events, keyboard events
- - 17.03.2021
 
 ## Puzzle game
  - [Task](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/gem-pazzle/codejam-the-gem-puzzle.md)
