@@ -7,7 +7,7 @@ https://github.com/golubeva-webmaster/working_practices_on_bitrix/tree/main/js/s
     <td>
         <ul>
             <li>Task: "Sberbank credit"</li>
-            <li>Work code: https://github.com/golubeva-webmaster/working_practices_on_bitrix/blob/main/googleTagManager/README.md</li>
+            <li>Work code: https://github.com/golubeva-webmaster/working_practices_on_bitrix/tree/main/js/sber</li>
             <li>Key skills: work with DOM (JS), ajax requests (JS), curl requests (php) </li>
             <li>April 2021</li>
     </td>
@@ -20,7 +20,7 @@ https://github.com/golubeva-webmaster/working_practices_on_bitrix/tree/main/js/s
     <td>
         <ul>
             <li>Task: "Google tag manager" selections on various pages of the store</li>
-            <li>Work code: https://github.com/golubeva-webmaster/working_practices_on_bitrix/blob/main/googleTagManager/README.md</li>
+            <li>Work code: https://github.com/golubeva-webmaster/working_practices_on_bitrix/tree/main/googleTagManager</li>
             <li>Key skills: work with DOM (JS),work with curl requests (php) </li>
             <li>March 2021</li>
     </td>
