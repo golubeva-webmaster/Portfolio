@@ -7,11 +7,11 @@
         <ul>
             <li>Task: "Sberbank credit"</li>
             <li>Work code: https://github.com/golubeva-webmaster/working_practices_on_bitrix/tree/main/js/sber</li>
-            <li>Key skills: work with DOM (JS), ajax requests (JS), curl requests (php) </li>
+            <li>Key skills: work with DOM (JS), ajax requests (JS), curl requests (php), cron</li>
             <li>April 2021</li>
     </td>
     <td width="40%">
-        <img src="img/virtual-piano.jpg">order_sber.jpg
+        <img src="img/order_sber.jpg">
     </td>
 </tr>
 </table>
