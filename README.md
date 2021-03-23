@@ -1,6 +1,21 @@
 # Portfolio of Golubeva Marina
 
 ## Virtual-piano
+
+<table border="0">
+<tr>
+    <td>
+        <ul>
+            <li>Task: "Google tag manager" selections on various pages of the store</li>
+            <li>Work: https://github.com/golubeva-webmaster/working_practices_on_bitrix/blob/main/googleTagManager/README.md</li>
+            <li>Key skills: work with DOM (JS),work with curl requests (php) </li>
+            <li>March 2021</li>
+    </td>
+    <td width="40%">
+    </td>
+</tr>
+</table>
+
 <table border="0">
 <tr>
     <td>
