@@ -11,8 +11,6 @@
             <li>Key skills: work with DOM (JS),work with curl requests (php) </li>
             <li>March 2021</li>
     </td>
-    <td width="40%">
-    </td>
 </tr>
 </table>
 
