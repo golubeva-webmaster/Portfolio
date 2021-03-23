@@ -11,7 +11,7 @@
             <li>April 2021</li>
     </td>
     <td width="40%">
-        <img src="img/virtual-piano.jpg">Screenshot of Оформление заказа.jpg
+        <img src="img/virtual-piano.jpg">order_sber.jpg
     </td>
 </tr>
 </table>
