@@ -1,7 +1,6 @@
 # Portfolio of Golubeva Marina
-https://github.com/golubeva-webmaster/working_practices_on_bitrix/tree/main/js/sber
 
-##Integration of the online store and the Sberbank credit service
+## Integration of the online store and the Sberbank credit service
 <table border="0">
 <tr>
     <td>
@@ -11,10 +10,13 @@ https://github.com/golubeva-webmaster/working_practices_on_bitrix/tree/main/js/s
             <li>Key skills: work with DOM (JS), ajax requests (JS), curl requests (php) </li>
             <li>April 2021</li>
     </td>
+    <td width="40%">
+        <img src="img/virtual-piano.jpg">Screenshot of Оформление заказа.jpg
+    </td>
 </tr>
 </table>
 
-##Google tag manager
+## Google tag manager
 <table border="0">
 <tr>
     <td>
