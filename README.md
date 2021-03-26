@@ -34,7 +34,7 @@
 <tr>
     <td>
         <ul>
-            <li>Task: https://rolling-scopes-school.github.io/stage0/#/stage1/tasks/virtual-piano</li>
+            <li>Task: https://rolling-scopes-school.github.io/stage0/#/stage1/tasks/js-projects/virtual-piano</li>
             <li>Work: https://rolling-scopes-school.github.io/golubeva-webmaster-JSFE2021Q1/virtual-piano/</li>
             <li>Key skills: work with DOM, work with sound, work with Fullscreen API, mouse events, keyboard events</li>
             <li>17.03.2021</li>
