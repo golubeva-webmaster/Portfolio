@@ -1,5 +1,21 @@
 # Portfolio of Golubeva Marina
 
+## Online-zoo - animal observation site
+<table border="0">
+<tr>
+    <td>
+        <ul>
+            <li>Task: https://rolling-scopes-school.github.io/stage0/#/stage1/tasks/online-zoo/variant-2</li>
+            <li>Work: https://rolling-scopes-school.github.io/golubeva-webmaster-JSFE2021Q1/online-zoo/</li>
+            <li>Key skills: layout for desktop skrins</li>
+            <li>April 2021</li>
+    </td>
+    <td width="40%">
+        <img src="img/online-zoo.png">
+    </td>
+</tr>
+</table>
+
 ## Integration of the online store and the Sberbank credit service
 <table border="0">
 <tr>
