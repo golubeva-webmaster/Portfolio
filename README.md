@@ -15,7 +15,7 @@
             <li>24.04.2021</li>
     </td>
     <td width="40%">
-        <img src="img/online-zoo.png">
+        <img src="img/photo-filter.png">
     </td>
 </tr>
 </table>
@@ -27,7 +27,7 @@
         <ul>
             <li>Task: https://rolling-scopes-school.github.io/stage0/#/stage1/tasks/online-zoo/variant-2</li>
             <li>Work: https://rolling-scopes-school.github.io/golubeva-webmaster-JSFE2021Q1/online-zoo/</li>
-            <li>Key skills: layout for desktop skrins</li>
+            <li>Key skills: layout for desktop skrins, adaptive for 1920px, 1200px</li>
             <li>April 2021</li>
     </td>
     <td width="40%">
