@@ -3,7 +3,23 @@
  - Linkedlin: www.linkedin.com/in/golubeva-webmaster
  - CV: https://golubeva-webmaster.github.io/rsschool-cv/
  - Portfolio: https://github.com/golubeva-webmaster/Portfolio/blob/main/README.md
- 
+ - 
+## Photo-filter
+<table border="0">
+<tr>
+    <td>
+        <ul>
+            <li>Task: https://rolling-scopes-school.github.io/stage0/#/stage1/tasks/js-projects/photo-filter</li>
+            <li>Work: https://rolling-scopes-school.github.io/golubeva-webmaster-JSFE2021Q1/photo-filter/</li>
+            <li>Key skills: work with files, upload local files, save files to computer, work with Date, Canvas API</li>
+            <li>24.04.2021</li>
+    </td>
+    <td width="40%">
+        <img src="img/online-zoo.png">
+    </td>
+</tr>
+</table>
+
 ## Online-zoo - animal observation site
 <table border="0">
 <tr>
@@ -20,7 +36,7 @@
 </tr>
 </table>
 
-## Integration of the online store and the Sberbank credit service
+## Credit in basket from Sber
 <table border="0">
 <tr>
     <td>
