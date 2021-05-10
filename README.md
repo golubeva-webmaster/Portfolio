@@ -27,7 +27,7 @@
         <ul>
             <li>Task: https://rolling-scopes-school.github.io/stage0/#/stage1/tasks/online-zoo/variant-2</li>
             <li>Work: https://rolling-scopes-school.github.io/golubeva-webmaster-JSFE2021Q1/online-zoo/</li>
-            <li>Key skills: layout for desktop skrins, adaptive for 1920px, 1200px</li>
+            <li>Key skills: layout for desktop skrins, adaptive for 1920px, 1200px. JS: multi-popups whith form, automatic carousel, sliders: horizontal and vertical</li>
             <li>April 2021</li>
     </td>
     <td width="40%">
