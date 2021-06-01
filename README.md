@@ -15,7 +15,7 @@
             <li>31.05.2021</li>
     </td>
     <td width="40%">
-        <img src="img/photo-filter.png">
+        <img src="img/match-match-g.png">
     </td>
 </tr>
 </table>
