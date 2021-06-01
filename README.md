@@ -4,7 +4,7 @@
  - CV: https://golubeva-webmaster.github.io/rsschool-cv/
  - Portfolio: https://github.com/golubeva-webmaster/Portfolio/blob/main/README.md
 
-## SPA Match-Match Game
+## SPA: Match-Match Game
 <table border="0">
 <tr>
     <td>
@@ -97,7 +97,7 @@
 </tr>
 </table>
 
-## Puzzle game
+## SPA: Puzzle game
 <table border="0">
 <tr>
     <td>
