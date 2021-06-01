@@ -3,7 +3,23 @@
  - Linkedlin: www.linkedin.com/in/golubeva-webmaster
  - CV: https://golubeva-webmaster.github.io/rsschool-cv/
  - Portfolio: https://github.com/golubeva-webmaster/Portfolio/blob/main/README.md
- 
+
+## SPA Match-Match Game
+<table border="0">
+<tr>
+    <td>
+        <ul>
+            <li>Task: https://github.com/rolling-scopes-school/tasks/blob/master/tasks/match-match-game.md</li>
+            <li>Work: https://rolling-scopes-school.github.io/golubeva-webmaster-JSFE2021Q1/match-match-game/</li>
+            <li>Key skills: TypoScript, webpack, OOP</li>
+            <li>31.05.2021</li>
+    </td>
+    <td width="40%">
+        <img src="img/photo-filter.png">
+    </td>
+</tr>
+</table>
+
 ## Photo-filter
 <table border="0">
 <tr>
