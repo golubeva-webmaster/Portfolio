@@ -11,6 +11,7 @@
         <ul>
             <li>Task: https://github.com/rolling-scopes-school/tasks/blob/master/tasks/async-race.md</li>
             <li>Work: https://rolling-scopes-school.github.io/golubeva-webmaster-JSFE2021Q1/async-race/</li>
+            <li>Note: Reviewer should clone <a href="https://github.com/mikhama/async-race-api">repo with a server</a> and keep the server running during functionality review.</li>
             <li>Key skills: TypoScript, webpack, Сommunication with a server (fetch, REST API), Async coding / Promises, JS Animations, DOM Api</li>
             <li>15.06.2021</li>
     </td>
