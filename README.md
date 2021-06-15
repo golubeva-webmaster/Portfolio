@@ -15,7 +15,7 @@
             <li>15.06.2021</li>
     </td>
     <td width="40%">
-        <img src="img/match-match-g.png">
+        <img src="img/async-race-.png">
     </td>
 </tr>
 </table>
