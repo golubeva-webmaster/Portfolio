@@ -3,6 +3,7 @@
  - Linkedlin: www.linkedin.com/in/golubeva-webmaster
  - CV: https://golubeva-webmaster.github.io/rsschool-cv/
  - Portfolio: https://github.com/golubeva-webmaster/Portfolio/blob/main/README.md
+ - Presentation "Promises for asynchronous programming": https://www.youtube.com/watch?v=HOiCDlUiFFM
 
 ## SPA: Game Async-race
 <table border="0">
