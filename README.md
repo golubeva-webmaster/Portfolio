@@ -5,7 +5,7 @@
  - Portfolio: https://github.com/golubeva-webmaster/Portfolio/blob/main/README.md
  - Presentation "Promises for asynchronous programming": https://www.youtube.com/watch?v=HOiCDlUiFFM
 
-## SPA: Game Async-race
+## SPA: English for kids
 <table border="0">
 <tr>
     <td>
@@ -16,7 +16,7 @@
             <li>07.07.2021</li>
     </td>
     <td width="40%">
-        <img src="img/async-race-.png">
+        <img src="img/english-for-kids.png">
     </td>
 </tr>
 </table>
