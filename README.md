@@ -10,6 +10,23 @@
 <tr>
     <td>
         <ul>
+            <li>Task: https://github.com/rolling-scopes-school/tasks/blob/master/tasks/rslang/english-for-kids.md</li>
+            <li>Work: https://rolling-scopes-school.github.io/golubeva-webmaster-JSFE2021Q1/english-for-kids/</li>
+            <li>Key skills: TypoScript, webpack, sass, sounds, CSS and JS animation</li>
+            <li>07.07.2021</li>
+    </td>
+    <td width="40%">
+        <img src="img/async-race-.png">
+    </td>
+</tr>
+</table>
+
+
+## SPA: Game Async-race
+<table border="0">
+<tr>
+    <td>
+        <ul>
             <li>Task: https://github.com/rolling-scopes-school/tasks/blob/master/tasks/async-race.md</li>
             <li>Work: https://rolling-scopes-school.github.io/golubeva-webmaster-JSFE2021Q1/async-race/</li>
             <li>Note: Reviewer should clone <a href="https://github.com/mikhama/async-race-api">repo with a server</a> and keep the server running during functionality review.</li>
