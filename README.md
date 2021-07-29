@@ -1,4 +1,4 @@
-# Portfolio of Golubeva Marina
+# Portfolio of Golubeva Marina 
  - Self introduction: https://www.youtube.com/watch?v=7r7Fa5v1ow8&t=179s
  - Linkedlin: www.linkedin.com/in/golubeva-webmaster
  - CV: https://golubeva-webmaster.github.io/rsschool-cv/
