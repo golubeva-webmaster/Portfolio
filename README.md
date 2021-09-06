@@ -3,7 +3,7 @@
  - Linkedlin: www.linkedin.com/in/golubeva-webmaster
  - CV: https://golubeva-webmaster.github.io/rsschool-cv/
  - Portfolio: https://github.com/golubeva-webmaster/Portfolio/blob/main/README.md
- - Presentation "Promises for asynchronous programming": https://www.youtube.com/watch?v=HOiCDlUiFFM
+ - [RSSCHool JavaScript Front-end sertificate 2021Q1](https://app.rs.school/certificate/qm2m5pdc)
 
 <!--## SPA: English for kids
 <table border="0">
