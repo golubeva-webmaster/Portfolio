@@ -17,7 +17,7 @@
             <li>12.10.2021</li>
     </td>
     <td width="40%">
-        <img src="img/async-race-.png">
+        <img src="img/museum.png">
     </td>
 </tr>
 </table>
