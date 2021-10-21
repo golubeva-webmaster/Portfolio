@@ -6,6 +6,22 @@
  - [RSSCHool JavaScript Front-end sertificate 2021Q1](https://app.rs.school/certificate/qm2m5pdc)
 
 
+## CSS slider
+<table border="0">
+<tr>
+    <td>
+        <ul>
+            <li>Task: https://github.com/DrDiman/CSS-Mem-Slider</li>
+            <li>Work: https://golubeva-webmaster.github.io/cssMemSlider/cssMemSlider/index.html</li>
+            <li>Key skills: css slider without JavaScript</li>
+            <li>17.10.2021</li>
+    </td>
+    <td width="40%">
+        <img src="img/cssslider.png">
+    </td>
+</tr>
+</table>
+
 ## Web-site Museum
 <table border="0">
 <tr>
@@ -14,7 +30,7 @@
             <li>Task: https://github.com/rolling-scopes-school/tasks/blob/master/tasks/museum/museum-dom.md</li>
             <li>Work: https://rolling-scopes-school.github.io/golubeva-webmaster-JSFE2021Q3/museum-dom/</li>
             <li>Key skills: slider, compare images slider, HTML5 player, gallery animation, tickets calculator, form valudation, interactive map</li>
-            <li>12.10.2021</li>
+            <li>10.10.2021</li>
     </td>
     <td width="40%">
         <img src="img/museum2.png">
