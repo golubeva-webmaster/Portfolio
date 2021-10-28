@@ -6,6 +6,24 @@
  - [RSSCHool JavaScript Front-end sertificate 2021Q1](https://app.rs.school/certificate/qm2m5pdc)
 
 
+
+## Momentum
+<table>
+<tr>
+    <td>
+        <ul>
+            <li>Task: https://github.com/rolling-scopes-school/tasks/blob/master/tasks/momentum/momentum-stage1.md</li>
+            <li>Work: https://rolling-scopes-school.github.io/golubeva-webmaster-JSFE2021Q3/momentum/</li>
+            <li>Key skills: search elements metods,work with date, custom audio player, local storage, use recursive setTimeout, asynk requests, work with weather forecast API, multilanguage</li>
+            <li>25.10.2021</li>
+    </td>
+    <td width="40%">
+        <img src="img/momentum.jpg">
+    </td>
+</tr>
+</table>
+
+
 ## CSS slider
 <table border="0">
 <tr>
@@ -216,22 +234,6 @@
 </tr>
 </table>
 
-
-## Momentum
-<table>
-<tr>
-    <td>
-        <ul>
-            <li>Task: https://github.com/rolling-scopes-school/tasks/blob/master/tasks/ready-projects/momentum.md</li>
-            <li>Work: https://rolling-scopes-school.github.io/golubeva-webmaster-JS2020Q3/momentum/</li>
-            <li>Key skills:  adaptive design, work with quotess API, work with weather forecast API</li>
-            <li>25.10.2020</li>
-    </td>
-    <td width="40%">
-        <img src="img/momentum.jpg">
-    </td>
-</tr>
-</table>
 
 ## Calculator
 <table>
