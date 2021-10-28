@@ -18,7 +18,7 @@
             <li>25.10.2021</li>
     </td>
     <td width="40%">
-        <img src="img/momentum.jpg">
+        <img src="img/momentum.png">
     </td>
 </tr>
 </table>
