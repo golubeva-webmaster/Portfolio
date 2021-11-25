@@ -74,7 +74,7 @@
 
 
 
-<!--## SPA: English for kids
+## SPA: English for kids
 <table border="0">
 <tr>
     <td>
@@ -89,7 +89,7 @@
     </td>
 </tr>
 </table>
--->
+
 
 ## SPA: Game Async-race
 <table border="0">
