@@ -17,7 +17,7 @@
             <li>24.11.2021</li>
     </td>
     <td width="40%">
-        <img src="img/art-quiz-screen.png">
+        <img src="img/art-quiz.png">
     </td>
 </tr>
 </table>
