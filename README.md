@@ -6,6 +6,22 @@
  - [RSSCHool JavaScript Front-end sertificate 2021Q1](https://app.rs.school/certificate/qm2m5pdc)
 
 
+## Art-quiz
+<table>
+<tr>
+    <td>
+        <ul>
+            <li>Task: https://github.com/rolling-scopes-school/tasks/blob/master/tasks/art-quiz/art-quiz.md</li>
+            <li>Work: https://rolling-scopes-school.github.io/golubeva-webmaster-JSFE2021Q3/art-quiz/</li>
+            <li>Key skills: TypoScript, JavaScript Classes, Modules in JavaScript, Webpack, CSS3 Animations, Local Storage, генерирование html через js</li>
+            <li>24.11.2021</li>
+    </td>
+    <td width="40%">
+        <img src="img/art-quiz-screen.png">
+    </td>
+</tr>
+</table>
+
 
 ## Momentum
 <table>
