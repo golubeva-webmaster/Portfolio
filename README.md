@@ -6,7 +6,23 @@
  - [RSSCHool JavaScript Front-end sertificate 2021Q1](https://app.rs.school/certificate/qm2m5pdc)
 
 
-## Art-quiz
+## SPA: Christmas task
+<table>
+<tr>
+    <td>
+        <ul>
+            <li>Task: https://github.com/rolling-scopes-school/tasks/blob/master/tasks/christmas-task/christmas-task.md</li>
+            <li>Work: https://rolling-scopes-school.github.io/golubeva-webmaster-JSFE2021Q3/christmas-task/</li>
+            <li>Key skills: Vue, TypoScript, Webpack, generate html from JS</li>
+            <li>22.12.2021</li>
+    </td>
+    <td width="40%">
+        <img src="img/art-quiz.png">
+    </td>
+</tr>
+</table>
+
+## SPA: Art-quiz
 <table>
 <tr>
     <td>
