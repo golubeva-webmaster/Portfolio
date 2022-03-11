@@ -6,7 +6,24 @@
  - [RSSCHool JavaScript Front-end sertificate 2021Q1](https://app.rs.school/certificate/qm2m5pdc)
 
 
-## SPA: Christmas task
+## SPA: Costs (React)
+<table>
+<tr>
+    <td>
+        <ul>
+            <li>[Приложение выполнено в рамках курса "Современный React с Нуля (2022)", https://www.udemy.com/course/react-np/]</li>
+            <li>Work: https://golubeva-webmaster.github.io/SPA-React/costs/</li>
+            <li>Key skills: React components, two-way binding, events, state, stylesation</li>
+            <li>11.03.2022</li>
+    </td>
+    <td width="40%">
+        <img src="img/christmas.png">
+    </td>
+</tr>
+</table>
+
+
+## SPA: Christmas task (Vue)
 <table>
 <tr>
     <td>
