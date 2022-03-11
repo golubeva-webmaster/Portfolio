@@ -11,13 +11,13 @@
 <tr>
     <td>
         <ul>
-            <li>[Приложение выполнено в рамках курса "Современный React с Нуля (2022)", https://www.udemy.com/course/react-np/]</li>
+            <li>The application was made as part of the course "Современный React с Нуля (2022)", https://www.udemy.com/course/react-np/</li>
             <li>Work: https://golubeva-webmaster.github.io/SPA-React/costs/</li>
             <li>Key skills: React components, two-way binding, events, state, stylesation</li>
             <li>11.03.2022</li>
     </td>
     <td width="40%">
-        <img src="img/christmas.png">
+        <img src="img/costs.png">
     </td>
 </tr>
 </table>
