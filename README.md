@@ -6,6 +6,22 @@
  - [RSSCHool JavaScript Front-end sertificate 2021Q1](https://app.rs.school/certificate/qm2m5pdc)
 
 
+## Dadata suggestions
+<table>
+<tr>
+    <td>
+        <ul>
+            <li>Заполнение полей формы при помощи сервиса dadata</li>
+            <li>Work: https://golubeva-webmaster.github.io/dadata-task/dadata-task/</li>
+            <li>Key skills: dadata API</li>
+            <li>14.03.2022</li>
+    </td>
+    <td width="40%">
+    </td>
+</tr>
+</table>
+
+
 ## SPA: Costs (React)
 <table>
 <tr>
