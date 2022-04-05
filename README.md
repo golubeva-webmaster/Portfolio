@@ -4,6 +4,7 @@
  - CV: https://golubeva-webmaster.github.io/rsschool-cv/
  - Portfolio: https://github.com/golubeva-webmaster/Portfolio/blob/main/README.md
  - [RSSCHool JavaScript Front-end sertificate 2021Q1](https://app.rs.school/certificate/qm2m5pdc)
+ - [RSSCHool JavaScript Front-end sertificate 2021Q3](https://app.rs.school/certificate/0kuot8ua)
 
 
 ## Dadata suggestions
