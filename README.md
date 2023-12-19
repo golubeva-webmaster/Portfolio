@@ -6,6 +6,7 @@
  - [Examples of code](https://github.com/golubeva-webmaster/Examples_of_code)
  - [RSSCHool JavaScript Front-end sertificate 2021Q1](https://app.rs.school/certificate/qm2m5pdc) (repo: https://github.com/rolling-scopes-school/golubeva-webmaster-JSFE2021Q1)
  - [RSSCHool JavaScript Front-end sertificate 2021Q3](https://app.rs.school/certificate/0kuot8ua) (repo: https://github.com/rolling-scopes-school/golubeva-webmaster-JSFE2021Q3/)
+![image](https://github.com/golubeva-webmaster/Portfolio/assets/60580475/cb2fa9bd-b051-4bb6-9244-3c0424b4aefc)
 
 
 ## Dadata suggestions
